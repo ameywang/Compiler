@@ -1,0 +1,5 @@
+.vscode
+*.code-workspace
+# trash file
+_trash
+site
